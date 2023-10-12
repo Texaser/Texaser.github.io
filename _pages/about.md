@@ -22,5 +22,5 @@ I am interested in research related to deep learning and computer vision. My wor
 <div style='width:600px;height:300px;margin:0 auto'>
 <link rel="preconnect" href="//cdn.clustrmaps.com">
 <link rel="dns-prefetch" href="//cdn.clustrmaps.com">
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=KjHQrKCGeAevTbVZT5HIVqf1egyfECk-cYwee7p22oU"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=KjHQrKCGeAevTbVZT5HIVqf1egyfECk-cYwee7p22oU&cl=ffffff&w=a"></script>
 </div>
