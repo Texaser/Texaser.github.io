@@ -44,7 +44,6 @@ I am interested in research related to deep learning and computer vision. My wor
    - **Conference**: International Conference On Brain-Inspired Cognitive Systems (BICS 2023)
 
 <h2>Reseach experience</h2>
-## Research Experience
 
 ### Progressive Text-to-3D Generation for Automatic 3D Prototyping
 - **Duration**: Dec. 2022 - Present
