@@ -6,8 +6,9 @@ author_profile: true
 redirect_from: 
   - /about/
 ---
-		   
-Hi! I am currently a master student at School of Computing, National University of Singapore, advised by <a href="https://www.comp.nus.edu.sg/cs/bio/chuats/">Prof. Tat-Seng Chua</a>, <a href="https://www.zdzheng.xyz/">Dr. Zhedong Zheng</a>, and <a href="https://xuxy09.github.io/">Prof. Xiangyu Xu</a>.
+![NUS](images/NUS-icon.jpg)
+![NEXT](images/NEXT-icon.jpg)		   
+Hi! I'm currently a research intern at the National University of Singapore (NUS), NExT++ Research Center, advised by <a href="https://www.comp.nus.edu.sg/cs/bio/chuats/">Prof. Tat-Seng Chua</a>, <a href="https://www.zdzheng.xyz/">Dr. Zhedong Zheng</a>, and <a href="https://xuxy09.github.io/">Prof. Xiangyu Xu</a>.
 
 Open-source projects can be found at my <a href='https://github.com/texaser'>[Github]</a>, and publications can be found at [ORCID](https://orcid.org/0000-0001-7408-1120).
 
