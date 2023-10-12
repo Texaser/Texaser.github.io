@@ -11,7 +11,7 @@ Hi! I am currently a master student at School of Computing, National University 
 
 Open-source projects can be found at my <a href='https://github.com/texaser'>[Github]</a>, and publications can be found at [ORCID](https://orcid.org/0000-0001-7408-1120).
 
-<strong>More details can be found in my [[CV]]({{ site.url }}{{ site.baseurl }}/files/HAN YI CV.pdf). </strong>
+<strong>More details can be found in my [[CV]]({{ site.url }}{{ site.baseurl }}/files/HAN_YI_CV.pdf). </strong>
 
 <h2>Research Statement</h2>
 
