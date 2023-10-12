@@ -6,8 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
 ---
-![NUS](images/NUS-icon.jpg)
-![NEXT](images/NEXT-icon.jpg)		   
+<img src="images/NUS-icon.jpg" alt="NUS" style="width: 100px; height: 100px;" /> <img src="images/NEXT-icon.jpg" alt="NEXT" style="width: 100px; height: 100px;" />	   
 Hi! I'm currently a research intern at the National University of Singapore (NUS), NExT++ Research Center, advised by <a href="https://www.comp.nus.edu.sg/cs/bio/chuats/">Prof. Tat-Seng Chua</a>, <a href="https://www.zdzheng.xyz/">Dr. Zhedong Zheng</a>, and <a href="https://xuxy09.github.io/">Prof. Xiangyu Xu</a>.
 
 Open-source projects can be found at my <a href='https://github.com/texaser'>[Github]</a>, and publications can be found at [ORCID](https://orcid.org/0000-0001-7408-1120).
@@ -80,7 +79,7 @@ I am interested in research related to deep learning and computer vision. My wor
   - Optimized the efficiency with **Cumulative Sum Control Chart** and **Exponentially Weighted Moving-Average**.
 
 
-<div style='width:300px;height:150px;margin:0 auto'>
+<div style='width:500px;height:300px;margin:0 auto'>
 <link rel="preconnect" href="//cdn.clustrmaps.com">
 <link rel="dns-prefetch" href="//cdn.clustrmaps.com">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=KjHQrKCGeAevTbVZT5HIVqf1egyfECk-cYwee7p22oU&cl=ffffff&w=a"></script>
