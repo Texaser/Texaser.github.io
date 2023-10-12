@@ -45,7 +45,7 @@ I am interested in research related to deep learning and computer vision. My wor
 
 <h2>Reseach experience</h2>
 
-### Progressive Text-to-3D Generation for Automatic 3D Prototyping
+1. ### Progressive Text-to-3D Generation for Automatic 3D Prototyping
 - **Duration**: Dec. 2022 - Present
 - **Institution**: NExT++ Research Center, National University of Singapore
 - **Advisor**: [Prof. Tat-seng Chua](https://www.chuatatseng.com/)
@@ -53,7 +53,7 @@ I am interested in research related to deep learning and computer vision. My wor
   - Proposed a **progressive learning** strategy to refine details of the 3D model.
   - Achieved high-resolution outputs that align closely with natural language descriptions.
 
-### Image Deblurring with Image Blurring
+2. ### Image Deblurring with Image Blurring
 - **Duration**: Nov. 2021 - Oct. 2022
 - **Institution**: Wuhan University
 - **Advisor**: [Prof. Zhi Gao](https://gaozhinuswhu.com/)
@@ -61,7 +61,7 @@ I am interested in research related to deep learning and computer vision. My wor
   - Synthesized a blur-sharp paired blur dataset **Rear-Blur-COCOmini**.
   - Obtained state-of-the-art deblurred results and introduced **Variance of Laplacian edge detection (VL)**.
 
-### LED Visible Light Positioning Algorithm
+3. ### LED Visible Light Positioning Algorithm
 - **Duration**: July. 2021 - Sep. 2021
 - **Institution**: Tsinghua University
 - **Advisor**: [Prof. Hao Zhang](https://www.ee.tsinghua.edu.cn/en/info/1071/1305.htm)
@@ -70,7 +70,7 @@ I am interested in research related to deep learning and computer vision. My wor
   - Improved the algorithm in various ways including special positions and turning angles.
   - Introduced **Malformation Matrix** to improve accuracy.
 
-### Maintenance System with Predictability Figuration
+4. ### Maintenance System with Predictability Figuration
 - **Duration**: Sep. 2020 - Mar. 2021
 - **Institution**: Tsinghua University
 - **Advisor**: [Prof. Hao Zhang](https://www.ee.tsinghua.edu.cn/en/info/1071/1305.htm)
