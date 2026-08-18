@@ -217,7 +217,7 @@ p.links {
 
 /* ===================== Publications ===================== */
 table.papers td.thumb {
-  padding: 20px;
+  padding: 32px 20px;
   width: 25%;
   vertical-align: middle;
 }
@@ -233,11 +233,16 @@ table.papers td.thumb video {
 table.papers td.paper {
   width: 75%;
   vertical-align: middle;
-  padding-right: 20px;
+  padding: 32px 20px 32px 0;
 }
 
 table.papers td.paper p {
   margin: 10px 0 0;
+  line-height: 1.5;
+}
+
+table.papers tr + tr td {
+  border-top: 1px solid var(--rule);
 }
 
 /* ===================== Lists ===================== */
@@ -300,7 +305,7 @@ td.colophon p {
   }
 
   table.papers td.thumb {
-    padding: 20px 20px 0;
+    padding: 28px 20px 0;
   }
 
   table.papers td.thumb img,
@@ -309,7 +314,8 @@ td.colophon p {
   }
 
   table.papers td.paper {
-    padding: 10px 20px 20px;
+    padding: 12px 20px 32px;
+    border-top: 0;
   }
 
   .name {
